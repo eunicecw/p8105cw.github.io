@@ -4,7 +4,6 @@ output:
   html_document:
     toc: true
     toc_float: true
-    theme: cerulean
 ---
 
 # This is Jeff's awesome website
@@ -21,7 +20,7 @@ You can add text
 
 You can *FORMAT* and **bold?**
 
-This is a [link](https://www.google.com) to a good data science tool. Here's a link to [P8105](https://p8105.com). SOON: a link to another page on this site.
+This is a [link](https://www.google.com) to a good data science tool. Here's a link to [P8105](https://p8105.com). Here's a link to the [about](about.html) page
 
 
 You can also still use R!
@@ -46,5 +45,7 @@ My cat is red. This is ted:
 Also here's the "backstage" area in Alumni Auditorium
 
 ![](images/backstage.jpg)
+
+
 
 
