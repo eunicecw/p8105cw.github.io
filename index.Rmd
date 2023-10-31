@@ -11,7 +11,6 @@ output:
 Here's a gif of elmo
 
 ![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
-## ![]is for saving image from other source
 
 You can add text
 
